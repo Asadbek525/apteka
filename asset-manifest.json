@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/apteka/static/css/main.2acbc91f.css",
-    "main.js": "/apteka/static/js/main.b5d338cb.js",
+    "main.js": "/apteka/static/js/main.273fd870.js",
     "static/js/787.3778fe9c.chunk.js": "/apteka/static/js/787.3778fe9c.chunk.js",
     "index.html": "/apteka/index.html",
     "main.2acbc91f.css.map": "/apteka/static/css/main.2acbc91f.css.map",
-    "main.b5d338cb.js.map": "/apteka/static/js/main.b5d338cb.js.map",
+    "main.273fd870.js.map": "/apteka/static/js/main.273fd870.js.map",
     "787.3778fe9c.chunk.js.map": "/apteka/static/js/787.3778fe9c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2acbc91f.css",
-    "static/js/main.b5d338cb.js"
+    "static/js/main.273fd870.js"
   ]
 }
